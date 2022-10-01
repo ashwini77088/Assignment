@@ -9,8 +9,8 @@ else{
 
 //assignment no 2
 
-let a=450
-if(a*3==500){
+let b=450
+if(b*3==500){
     console.log('multiple of 3');
 }
 else{
@@ -21,4 +21,12 @@ else{
 let age = 19;
 let result =(age >= 18) ? "You are eligible to vote." : "You are not eligible to vote yet";
 console.log(result);
-
+// postive or not positive
+var c = +2;
+if (c>0)
+{
+    console.log("Positive");
+}
+else {
+    console.log("Not Positive");
+}
