@@ -1,0 +1,24 @@
+//assignment no 1
+a=6
+if(a%7==0){
+    console.log('Divisible')
+}
+else{
+    console.log('Not Divisible')
+}
+
+//assignment no 2
+
+let a=450
+if(a*3==500){
+    console.log('multiple of 3');
+}
+else{
+    console.log("not mulitple of 3")
+}
+
+//asignment no 3
+let age = 19;
+let result =(age >= 18) ? "You are eligible to vote." : "You are not eligible to vote yet";
+console.log(result);
+
