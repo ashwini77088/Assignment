@@ -36,3 +36,25 @@ while(c<=10){
  for (let k=1;k>=10;k=k-1){
  console.log(k)
  }
+
+//Assignment while loop no 9
+let g=1
+while(g<=10){
+    console.log("6*",g,"=",g*6)
+    g=g=+1
+}
+
+// assignment 7 and 8
+let d=0
+while(d<=40){
+    console.log(d)
+    d=d+4
+}
+//assignment no 10
+var y=1
+while(y<=24){
+    if(24%y==0)
+    console.log(y)
+    y=y+1
+}
+//assignment 11
