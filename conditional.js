@@ -30,3 +30,13 @@ if (c>0)
 else {
     console.log("Not Positive");
 }
+//assignment no 5
+var c = 999;
+if(c>=100 && c<=999)
+{
+console.log( "Its a three digit No", c);
+}
+else 
+{
+    console.log("Not a three digit No", c);
+}
