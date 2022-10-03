@@ -15,3 +15,4 @@ for(let elements of array){
     console.log(elements)
 }
 
+//

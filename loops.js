@@ -7,7 +7,6 @@ while(a<=10){
     a=a+1
 }
 
-
 //for and while loop assignment-2
  let b=10
 
