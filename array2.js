@@ -6,3 +6,4 @@ do {
     i++
 }
 while (i <= a.length - 1);
+ 
